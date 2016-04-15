@@ -1,4 +1,4 @@
-# PV260-assignment2
+# PV260-assignment2 - Pavel Synek, Marek Turis
 
 # Task 1
 ## Found bugs
@@ -119,3 +119,6 @@ public class SeleniumTest {
 }
 
 ```
+
+# Task 4
+https://github.com/PavelSynek/PV260-assignment2/tree/master/src/test/java/cz.muni.fi.pv260.productfilter
